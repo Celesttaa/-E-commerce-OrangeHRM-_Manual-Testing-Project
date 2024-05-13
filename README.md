@@ -1,0 +1,1 @@
+OrangeHRM provides a scalable HRM solution for small and midsize businesses, ensuring the entire employment lifecycle is covered, from onboarding to termination. Our full suite of applications covers everything from core HR to time and attendance, candidate recruiting, performance reviews, absence management, benefits administration, and more.
